@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vlad<br>1) Currently studying mathematics in TU Dublin<br>2) Self learning about data analytics, finance, AI agents, TRIZ and various math applications<br>3) Profficient in Python and SQL<br>4) Looking to connect with like minded people in Dublin
+Hi, I'm Vlad<br>1) Currently studying mathematics in TU Dublin<br>2) Self learning about data analytics, finance, AI agents and various math applications<br>3) Profficient in Python and SQL<br>
 
 
 ## 🌐 Socials:
